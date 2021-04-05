@@ -10,3 +10,5 @@
 4. Вывести информацию на страницу:
     - pizzeria_name
     - city
+   
+5. Отправить Pull Requests
